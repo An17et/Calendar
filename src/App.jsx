@@ -374,7 +374,7 @@ function App() {
           rangeEnd={rangeEnd}
           selectedDate={selectedDate}
           onClearSelection={clearSelectedDate}
-          isMobileVisible={mobileNotesVisible ? true : undefined}
+          isMobileVisible={mobileNotesVisible}
           onClose={() => setMobileNotesVisible(false)}
           animationKey={notesPanelKey}
         />
