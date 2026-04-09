@@ -5,36 +5,20 @@
 A beautifully crafted, skeuomorphic wall calendar built with **React + Vite**.  
 Emulates the tactile feel of a real wall calendar — rich seasonal themes, realistic page-flip animations, sticky notes, and ambient particle effects.
 
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/Vanilla_CSS-Custom_Properties-FF6B35?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)
-
 </div>
 
 ---
 
 ## 🖼️ Screenshots
 
-<div align="center">
-
 ### ☀️ Light Mode — April
-
-<img src="./screenshots/light-mode-april.png" alt="Light mode - April with sticky notes and cherry blossom petals" width="100%" />
-
-<br />
+![Light Mode - April](screenshots/light-mode-april.png)
 
 ### 🌙 Dark Mode — February
-
-<img src="./screenshots/dark-mode-february.png" alt="Dark mode - February with floating hearts" width="100%" />
-
-<br />
+![Dark Mode - February](screenshots/dark-mode-february.png)
 
 ### 🌙 Dark Mode — January
-
-<img src="./screenshots/dark-mode-january.png" alt="Dark mode - January with snow particles" width="100%" />
-
-</div>
+![Dark Mode - January](screenshots/dark-mode-january.png)
 
 ---
 
