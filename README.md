@@ -151,12 +151,6 @@ src/
 
 ---
 
-## 📄 License
-
-MIT
-
----
-
 <div align="center">
 
 Made with ❤️ by [Aniket](https://github.com/An17et)
